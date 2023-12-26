@@ -1,2 +1,2 @@
-# -letimSistemleriProje-devi
+# IsletimSistemleriProjeOdevi
 İşletim Sistemleri Dersi Proje Ödevi
